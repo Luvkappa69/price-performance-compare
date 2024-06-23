@@ -1,0 +1,1 @@
+exchanges = [ccxt.binance(), ccxt.cryptocom(), ccxt.gateio(), ccxt.okex(), ccxt.gateio(), ccxt.coinex()]
